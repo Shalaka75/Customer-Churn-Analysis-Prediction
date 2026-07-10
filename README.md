@@ -84,4 +84,6 @@ This page presents customers predicted to churn using a **Decision Tree Machine 
 - Generated churn predictions for proactive decision-making.
 
 ## 📷 Dashboard Preview
-![Customer Churn Dashboard](dashboard.png)
+![Customer-Churn-Analysis-Prediction](Churn_Analysis-Summary.png)
+
+![Customer-Churn-Analysis-Prediction](Churn_Analysis-Prediction.png)
